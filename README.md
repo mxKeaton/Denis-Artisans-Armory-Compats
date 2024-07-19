@@ -1,4 +1,4 @@
-This is a small collection of Artisan's Armory mod compatibilities.
+This is a small collection of Artisan's Armory mod compats.
 It will be updated every once in a while, while also considering user requests.
 You are free to post some requests in the [issues tab](https://github.com/mxKeaton/Denis-Artisans-Armory-Additions/issues "issues tab")!
 
