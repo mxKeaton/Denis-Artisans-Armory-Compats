@@ -7,6 +7,8 @@ You are free to post some requests in the [issues tab](https://github.com/mxKeat
 - Progression Reborn Knives
 - Farmer's Delight
 - LieOnLion's Enderite
+- Better End
+- Better Nether
 
 ### Suggested sorting order is:
 - Artisan's Armory - Denis' Additions
